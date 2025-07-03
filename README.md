@@ -1,5 +1,5 @@
 # cops-and-rubbers
- Twine code base for Cops and Rubbers game by Lien B. Tran
+ Twine code base (using Harlowe StoryFormat) for Cops and Rubbers game by Lien B. Tran
  Completed in March 2016 with a last update in December 2018
 
  You may use this code as licensed under CC BY 4.0 and attributing Lien B. Tran (lienbtran.com).
